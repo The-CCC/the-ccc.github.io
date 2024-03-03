@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on CCC landing site</title>
+    <title>Posts on Coding Conundrums Community</title>
     <link>https://the-ccc.github.io/posts/</link>
-    <description>Recent content in Posts on CCC landing site</description>
+    <description>Recent content in Posts on Coding Conundrums Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 Mar 2024 19:28:28 +0530</lastBuildDate>
     <atom:link href="https://the-ccc.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First</title>
-      <link>https://the-ccc.github.io/posts/first/</link>
+      <title>Introduction</title>
+      <link>https://the-ccc.github.io/posts/intro/</link>
       <pubDate>Sun, 03 Mar 2024 19:28:28 +0530</pubDate>
-      <guid>https://the-ccc.github.io/posts/first/</guid>
-      <description>Introduction Hello, World!</description>
+      <guid>https://the-ccc.github.io/posts/intro/</guid>
+      <description>Introduction Hello, World!&#xA;What is the CCC? The Coding Conundrums Community is a community …</description>
     </item>
   </channel>
 </rss>
