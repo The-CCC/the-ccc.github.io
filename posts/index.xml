@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Coding Conundrums Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Mar 2024 19:28:28 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 10 Mar 2024 21:33:17 +0530</lastBuildDate>
     <atom:link href="https://the-ccc.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pathfinder</title>
+      <link>https://the-ccc.github.io/posts/1/</link>
+      <pubDate>Sun, 10 Mar 2024 21:33:17 +0530</pubDate>
+      <guid>https://the-ccc.github.io/posts/1/</guid>
+      <description>Problem statement Given an n-by-n grid, what is the most efficient route from the leftmost corner to the rightmost one?&#xA;Sample input 1 4 8 19 2 5 12 6 3 7 18 20 14 17 22 16 10 15 21 9 11 24 23 13 12 Expected output Grid: [[1, 4, 8, 19, 2], [5, 12, 6, 3, 7], [18, 20, 14, 17, 22], [16, 10, 15, 21, 9], [11, 24, 23, 13, 12]] Smallest path: [1, 5, 18, 16, 11, 24, 10, 20, 12, 4, 8, 6, 14, 15, 23, 13, 12] Sum: 212 Pseudocode Create an array/dictionary to store visited nodes.</description>
+    </item>
     <item>
       <title>Introduction</title>
       <link>https://the-ccc.github.io/posts/intro/</link>
